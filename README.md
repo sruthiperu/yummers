@@ -161,7 +161,8 @@ Open:
 http://localhost:3000
 ```
 
-Database
+Terminal 3: Database
+
 If PostgreSQL is not already running:
 ```
 docker compose up db -d
