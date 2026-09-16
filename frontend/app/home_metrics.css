@@ -7,10 +7,11 @@
     text-align: center;
     margin: 100px auto 28px;
     padding: 0 24px;
-    font-size: clamp(26px, 4vw, 34px);
-    font-weight: 700;
-    letter-spacing: -0.01em;
-    color: rgb(75, 75, 75);
+    font-size: clamp(20px, 2.8vw, 24px);
+    font-weight: 800;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: rgb(45, 55, 65);
 }
 
 @media (max-width: 640px) {

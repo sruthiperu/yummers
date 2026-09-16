@@ -71,7 +71,7 @@ export default function HomeMetrics() {
       className={`home_metrics_block${started ? " home_metrics_section--started" : ""}`}
       aria-label="Yummers by the numbers"
     >
-      <h2 className="home_section_heading home_metrics_title">yummers by the numbers</h2>
+      <h2 className="home_section_heading home_metrics_title">Yummers by the numbers</h2>
       <div className="home_metrics_section">
         <div className="home_metrics_inner">
           <div className="home_metrics">
